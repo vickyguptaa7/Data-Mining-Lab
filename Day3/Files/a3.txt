@@ -1,0 +1,1 @@
+Cosine similarity is a simple and efficient way to measure the similarity between two pieces of text. It is also relatively insensitive to the order of the words in the text. This makes it a good choice for measuring the similarity of questions, which often have different word orders.

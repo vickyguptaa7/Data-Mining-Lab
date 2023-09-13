@@ -1,0 +1,3 @@
+One disadvantage of cosine similarity is that it does not take into account the semantic meaning of the words in the text. This means that two pieces of text that are semantically similar may have a low cosine similarity if they use different words.
+
+Another disadvantage of cosine similarity is that it is not a good measure of the similarity of long pieces of text. This is because the cosine similarity between two vectors decreases as the length of the vectors increases.

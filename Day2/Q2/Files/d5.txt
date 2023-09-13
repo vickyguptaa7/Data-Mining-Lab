@@ -1,0 +1,9 @@
+Book chapter on the ethical implications of artificial intelligence
+Artificial intelligence (AI) is a powerful tool that can be used for good or for bad. As AI becomes more sophisticated, it is important to consider the ethical implications of its use.
+
+Some of the ethical concerns raised by AI include:
+
+The potential for AI to be used to create autonomous weapons systems that could kill without human intervention.
+The potential for AI to be used to discriminate against certain groups of people.
+The potential for AI to lead to mass unemployment as machines replace human workers.
+It is important to have a public discussion about the ethical implications of AI so that we can ensure that it is used for good and not for harm.

@@ -1,0 +1,1 @@
+Cosine similarity can be used to measure the similarity between two pieces of text. This can be done by converting the text into vectors of word counts or TF-IDF scores. The cosine similarity between two vectors is then calculated. A high cosine similarity indicates that the two pieces of text are similar.

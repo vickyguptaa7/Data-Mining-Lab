@@ -1,0 +1,4 @@
+Research paper on the use of natural language processing in machine translation
+Natural language processing (NLP) is a field of computer science that deals with the interaction between computers and human (natural) languages. NLP techniques are used in a variety of applications, including machine translation, text mining, and question answering.
+
+Machine translation is the task of automatically translating text from one language to another. NLP techniques are used to identify the words and phrases in the source text, to generate the corresponding words and phrases in the target language, and to correct errors in the translation.

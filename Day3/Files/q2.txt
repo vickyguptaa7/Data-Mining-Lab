@@ -1,0 +1,1 @@
+How is cosine similarity used for text matching?

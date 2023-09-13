@@ -1,0 +1,6 @@
+Wikipedia article on the history of artificial intelligence
+The history of artificial intelligence (AI) can be traced back to the early days of computing. In 1950, Alan Turing published a paper titled "Computing Machinery and Intelligence" in which he proposed the Turing test as a way to measure the intelligence of a machine.
+
+The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. The test is often used to measure the progress of AI research.
+
+Over the years, there have been many advances in AI, but the field is still in its early stages. However, AI has the potential to revolutionize many aspects of our lives, and it is likely to continue to play an increasingly important role in the future.
