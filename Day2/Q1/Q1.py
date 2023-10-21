@@ -13,7 +13,7 @@ NO_OF_ATTRIBUTE=6
 
 # Given Data Set
 DATA_SET={
-    "ant":[1,1,1,1,2,1],
+    "ant":[1,1,2,1,3,1],
     "bee":[1,2,1,1,2,2],
     "cat":[2,1,2,1,1,2],
     "cpl":[1,1,1,1,1,2],
@@ -97,5 +97,5 @@ for data1 in PROCESSED_DATA:
 
 CALC_DATA.sort()
 
-for i in range(0,min(10,len(CALC_DATA))):
+for i in range(len(CALC_DATA)):
     print(CALC_DATA[i]);
