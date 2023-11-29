@@ -1,3 +1,5 @@
+#consider domain questions and answers of a use case ,given a new question find the closest answer ,generate bow vectors for the new question and find the closest answer using cosine similarity
+
 import pandas as pd
 import math
 

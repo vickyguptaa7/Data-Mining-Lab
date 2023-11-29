@@ -1,0 +1,16 @@
+emp_id,department,job_role,over_time,performance,attrition,job_satisfaction
+1,hr,hr,yes,excellent,yes,very_satisfied
+2,marketing,marketing,yes,excellent,no,very_satisfied
+3,finance,finance,no,good,no,satisfied
+4,it,operation,yes,bad,yes,dissatisfied
+5,hr,hr,no,excellent,yes,neutral
+6,finance,finance,yes,good,no,dissatisfied
+7,hr,hr,no,excellent,yes,satisfied
+8,marketing,marketing,yes,bad,no,very_satisfied
+9,hr,hr,no,excellent,yes,very_satisfied
+10,it,operation,yes,bad,no,satisfied
+11,hr,hr,no,excellent,yes,dissatisfied
+12,it,operation,yes,good,no,satisfied
+13,marketing,marketing,no,bad,no,satisfied
+14,finance,finance,yes,good,yes,dissatisfied
+15,marketing,marketing,no,bad,no,satisfied

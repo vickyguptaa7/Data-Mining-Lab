@@ -1,0 +1,16 @@
+department,job_role,over_time,performance,attrition,job_satisfaction
+hr,hr,yes,excellent,yes,very_satisfied
+marketing,marketing,yes,excellent,no,very_satisfied
+finance,finance,no,good,no,satisfied
+it,operation,yes,bad,yes,dissatisfied
+hr,hr,no,excellent,yes,neutral
+finance,finance,yes,good,no,dissatisfied
+hr,hr,no,excellent,yes,satisfied
+marketing,marketing,yes,bad,no,very_satisfied
+hr,hr,no,excellent,yes,very_satisfied
+it,operation,yes,bad,no,satisfied
+hr,hr,no,excellent,yes,dissatisfied
+it,operation,yes,good,no,satisfied
+marketing,marketing,no,bad,no,satisfied
+finance,finance,yes,good,yes,dissatisfied
+marketing,marketing,no,bad,no,satisfied
